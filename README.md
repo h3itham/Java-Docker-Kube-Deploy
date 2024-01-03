@@ -2,8 +2,6 @@
 
 This repository contains code and resources for deploying Java applications using Docker and Kubernetes. The repository includes sample Java applications, Dockerfiles for building Docker images, and Kubernetes manifests for deploying the applications to a Kubernetes cluster.
 
-The code in this repository is based on the code provided in [h3itham's Java-Docker-Kube-Deploy repository](https://github.com/h3itham/Java-Docker-Kube-Deploy.git).
-
 ## Getting Started
 
 To get started with this repository, you'll need to have Docker, Kubernetes, and Maven installed on your local machine or cluster. Once you have those installed, you can clone this repository and start deploying the sample Java applications.
